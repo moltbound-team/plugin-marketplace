@@ -473,6 +473,18 @@
         "email": "support@videogen.io",
         "url": "https://github.com/video-gen"
       }
+    },
+    {
+      "name": "moltbound",
+      "description": "Simulated quotes for 20 US services (car, home, pet, travel, energy and more) from the Moltbound sandbox via its keyless MCP server, with a skill for the passkey-approval purchase flow. Test-only: fictional partners, nothing bought for real.",
+      "category": "development",
+      "source": {
+        "type": "local",
+        "path": "./external_plugins/moltbound"
+      },
+      "homepage": "https://moltbound.dev/for-agents",
+      "keywords": ["moltbound", "moltbound sandbox"],
+      "domains": ["moltbound.dev"]
     }
   ]
 }
