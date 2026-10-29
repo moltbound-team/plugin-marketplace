@@ -476,7 +476,7 @@
     },
     {
       "name": "moltbound",
-      "description": "Simulated quotes for 20 US services (car, home, pet, travel, energy and more) from the Moltbound sandbox via its keyless MCP server, with a skill for the passkey-approval purchase flow. Test-only: fictional partners, nothing bought for real.",
+      "description": "Consent and checkout rail for AI agents: quotes for 20 US services (car, home, pet, travel, energy and more) via a keyless MCP server, with a skill for the passkey-approval checkout flow. Sandbox now open with simulated data: fictional partners, nothing bought for real.",
       "category": "development",
       "source": {
         "type": "local",
